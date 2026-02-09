@@ -1,0 +1,6 @@
+patient041_11_0_0 3
+patient041_11_0_1 3
+patient041_11_0_2 3
+patient041_11_0_3 3
+patient041_11_0_4 3
+patient041_11_0_5 3

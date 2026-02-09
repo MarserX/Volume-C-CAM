@@ -1,0 +1,7 @@
+patient033_14_0_2 3
+patient033_14_0_3 3
+patient033_14_0_4 3
+patient033_14_0_5 3
+patient033_14_0_6 3
+patient033_14_0_7 3
+patient033_14_0_8 3

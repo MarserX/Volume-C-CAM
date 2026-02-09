@@ -1,0 +1,10 @@
+patient003_15_0_0 3
+patient003_15_0_1 3
+patient003_15_0_2 3
+patient003_15_0_3 3
+patient003_15_0_4 3
+patient003_15_0_5 3
+patient003_15_0_6 3
+patient003_15_0_7 3
+patient003_15_0_8 3
+patient003_15_0_9 3

@@ -1,0 +1,17 @@
+patient096_08_0_1 3
+patient096_08_0_10 3
+patient096_08_0_11 3
+patient096_08_0_12 3
+patient096_08_0_13 3
+patient096_08_0_14 3
+patient096_08_0_15 3
+patient096_08_0_16 3
+patient096_08_0_17 3
+patient096_08_0_2 3
+patient096_08_0_3 3
+patient096_08_0_4 3
+patient096_08_0_5 3
+patient096_08_0_6 3
+patient096_08_0_7 3
+patient096_08_0_8 3
+patient096_08_0_9 3
