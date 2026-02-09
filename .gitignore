@@ -24,9 +24,9 @@ wheels/
 .vscode/
 .idea/
 
-# Data and Logs
-data/acdc/
+#Logs
 *.log
-*.txt
+myExperiment/test.txt
+
 !requirements.txt
 !README.md
